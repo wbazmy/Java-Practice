@@ -5,6 +5,8 @@
  */
 public class test {
     public static void main(String[] args) {
-        System.out.println("hello world");
+        String a="abc";
+        String b="abc";
+        System.out.println(a==b);
     }
 }
