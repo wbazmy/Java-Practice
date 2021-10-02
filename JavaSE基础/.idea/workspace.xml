@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="689d2458-ea95-4569-bc82-aad488d4f82b" name="Default Changelist" comment="" />
+    <list default="true" id="689d2458-ea95-4569-bc82-aad488d4f82b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,17 +66,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.test" />
@@ -89,7 +80,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1627283435316</updated>
-      <workItem from="1627283436507" duration="3099000" />
+      <workItem from="1627283436507" duration="4067000" />
+      <workItem from="1631764798948" duration="40000" />
     </task>
     <servers />
   </component>
@@ -106,6 +98,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="7" key="#Project_Structure" timestamp="1627283454355">
@@ -116,22 +109,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="522" y="233" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1627283495438" />
-    <state width="1491" height="216" key="GridCell.Tab.0.bottom" timestamp="1627288728815">
+    <state width="1491" height="216" key="GridCell.Tab.0.bottom" timestamp="1627489836031">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1491" height="216" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1627288728815" />
-    <state width="1491" height="216" key="GridCell.Tab.0.center" timestamp="1627288728814">
+    <state width="1491" height="216" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1627489836031" />
+    <state width="1491" height="216" key="GridCell.Tab.0.center" timestamp="1627489836030">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1491" height="216" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1627288728814" />
-    <state width="1491" height="216" key="GridCell.Tab.0.left" timestamp="1627288728814">
+    <state width="1491" height="216" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1627489836030" />
+    <state width="1491" height="216" key="GridCell.Tab.0.left" timestamp="1627489836030">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1491" height="216" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1627288728814" />
-    <state width="1491" height="216" key="GridCell.Tab.0.right" timestamp="1627288728815">
+    <state width="1491" height="216" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1627489836030" />
+    <state width="1491" height="216" key="GridCell.Tab.0.right" timestamp="1627489836031">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1491" height="216" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1627288728815" />
+    <state width="1491" height="216" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1627489836031" />
     <state x="431" y="181" key="search.everywhere.popup" timestamp="1627283757879">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
