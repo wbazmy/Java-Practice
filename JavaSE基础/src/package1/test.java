@@ -43,7 +43,7 @@ public class test {
         class1.put(6, s3);
         student s4 = class1.get(5);
         class1.forEach((k, v) -> System.out.println(k + " " + v.getAvrscore()));
-        System.out.println("hello world");
+        System.out.println("hello world2");
         student s=new student("zy");
         s.show();
 
