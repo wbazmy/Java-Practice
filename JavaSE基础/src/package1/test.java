@@ -45,7 +45,7 @@ public class test {
         class1.forEach((k, v) -> System.out.println(k + " " + v.getAvrscore()));
         System.out.println("hello world234");
         System.out.println("fixing12");
-        System.out.println("hot-fixing");
+        System.out.println("hot-fixing from github");
         student s=new student("zy");
         s.show();
 
